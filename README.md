@@ -1,3 +1,3 @@
 # Lihierez.github.io
 
-Welcome to mi website
+Welcome to my website!
