@@ -1,7 +1,8 @@
 Lihi Erez
 ## MSc Student, Life sciences, Weizmann Institute
 
-![lihipic.png](lihipic.png)
+![lihipic](lihipic.png)
+
 
 * B.Sc. in Life-Sciences, Ben-Gurion University
 * Currently in rotation in [Eyal Karzbrun lab](https://www.karzbrunlab.com/).
