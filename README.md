@@ -1,4 +1,4 @@
-![lihipic](lihipic.png)
+![lihipic](./lihipic.png)
 
 ## Education
 * B.Sc. in Life-Sciences, Ben-Gurion University
