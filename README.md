@@ -1,14 +1,17 @@
 Lihi Erez
-## MSc Student, Weizmann Institute
+## MSc Student, Life sciences, Weizmann Institute
 
-* Dog
-* Cat
+![lihi pic.jpeg]
 
-_italic_
-**Bold**
+* B.Sc. in Life-Sciences, Ben-Gurion University
+* Currently in rotation in [Eyal Karzbrun lab](https://www.karzbrunlab.com/).
 
-1. Family
-2. Friends
+## About me:
+* I love animals, especially dogs 🐶
+* I love traveling around the world anf in Israel
+* I love spending time with my family and friends
 
-
-![63EA5E0A-36B5-4702-8B0A-F99C49DC0514_1_105_c]
+## WIS Python programming course
+* Taking Python programming course 2025 with https://szabgab.com/
+* See [my repository](https://github.com/Lihierez/Lihierez.github.io)
+  
