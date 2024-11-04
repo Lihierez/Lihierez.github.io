@@ -1,7 +1,6 @@
-# Lihierez.github.io
-## Hello
+# Lihi Erez
+## MSc Student, Weizmann Institute
 
-Welcome to my website!
 
 * Dog
 * Cat
