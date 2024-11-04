@@ -1,5 +1,5 @@
 Lihi Erez
-MSc Student, Weizmann Institute
+## MSc Student, Weizmann Institute
 
 * Dog
 * Cat
