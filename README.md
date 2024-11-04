@@ -8,9 +8,12 @@
 * My first rotation is in [Eyal Karzbrun lab](https://www.karzbrunlab.com/), studying how organs gain their shape
 
 ## About me
-* I love animals, especially my dog Jack 🐶
 * I love traveling around the world anf in Israel
 * I love spending time with my family and friends
+* I love animals, especially my dog Jack 🐶
+<p align="center">
+<img src="Image.jpg" alt="Jack" width="150" style="border-radius: 15px;"> 
+</p>
 
 ## WIS Python programming course
 * Taking Python programming course 2025 with [Gábor Szabó](https://szabgab.com/)
