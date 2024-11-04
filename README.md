@@ -1,4 +1,4 @@
-# Lihi Erez
+
 ## MSc Student, Weizmann Institute
 
 
