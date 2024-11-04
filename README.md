@@ -1,13 +1,11 @@
-# Lihi Erez
-## MSc Student, Life sciences, Weizmann Institute
-
 ![lihipic](lihipic.png)
 
-
+## Education
 * B.Sc. in Life-Sciences, Ben-Gurion University
-* Currently in rotation in [Eyal Karzbrun lab](https://www.karzbrunlab.com/).
+* Currently I am a student in [Weizmann Institute](https://www.weizmann.ac.il/pages/)
+* My first rotation is in [Eyal Karzbrun lab](https://www.karzbrunlab.com/), studying how organs gain their shape
 
-## About me:
+## About me
 * I love animals, especially dogs 🐶
 * I love traveling around the world anf in Israel
 * I love spending time with my family and friends
