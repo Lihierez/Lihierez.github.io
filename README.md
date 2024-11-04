@@ -1,4 +1,6 @@
-<img src="lihipicsmall.jpeg" alt="lihipic" width="200" height="250"/>
+<p align="center">
+  <img src="lihipicsmall.jpeg" alt="lihipic" width="300" style="border-radius: 15px;">
+</p>
 
 ## Education
 * B.Sc. in Life-Sciences, Ben-Gurion University
@@ -6,7 +8,7 @@
 * My first rotation is in [Eyal Karzbrun lab](https://www.karzbrunlab.com/), studying how organs gain their shape
 
 ## About me
-* I love animals, especially dogs 🐶
+* I love animals, especially my dog Jack 🐶
 * I love traveling around the world anf in Israel
 * I love spending time with my family and friends
 
