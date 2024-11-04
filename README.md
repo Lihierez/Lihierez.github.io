@@ -1,4 +1,4 @@
-# Lihi Erez
+Lihi Erez
 ## MSc Student, Life sciences, Weizmann Institute
 
 ![lihipic.png](lihipic.png)
