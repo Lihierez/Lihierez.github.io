@@ -1,4 +1,4 @@
-![lihipic](./lihipic.png)
+![lihipic](https://drive.google.com/file/d/1C5ST5EjJhOwuz-LjFmWcUUqOBg7WdfEt/view?usp=sharing)
 
 ## Education
 * B.Sc. in Life-Sciences, Ben-Gurion University
