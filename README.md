@@ -1,4 +1,4 @@
-Lihi Erez
+# Lihi Erez
 ## MSc Student, Life sciences, Weizmann Institute
 
 ![lihi pic.jpeg]
@@ -12,6 +12,6 @@ Lihi Erez
 * I love spending time with my family and friends
 
 ## WIS Python programming course
-* Taking Python programming course 2025 with https://szabgab.com/
+* Taking Python programming course 2025 with [Gábor Szabó](https://szabgab.com/)
 * See [my repository](https://github.com/Lihierez/Lihierez.github.io)
   
