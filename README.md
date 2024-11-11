@@ -28,4 +28,6 @@
   <img src="email-icon--clipart-best-22.png" alt="Email Icon" width="30">
 </a>
 
-
+<a href="https://github.com/Lihierez">
+  <img src="github icon.png" alt="github" width="30">
+</a>
