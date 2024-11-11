@@ -24,7 +24,7 @@
   <img src="circle-linkedin-512.jpeg" alt="linkedin" width="30">
 </a>
 
-<a href="lihi.erez@weizmann.ac.il">
+<a href="mailto:lihi.erez@weizmann.ac.il">
   <img src="email-icon--clipart-best-22.png" alt="Email Icon" width="30">
 </a>
 
