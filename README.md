@@ -20,14 +20,12 @@
 * See [my repository](https://github.com/Lihierez/Lihierez.github.io)
 
 ## Contact me 
-<a href="https://www.linkedin.com/in/lihi-erez-8008a31b6/">
+<a href="https://www.linkedin.com/in/lihi-erez-8008a31b6/" style="display: inline-block; margin-right: 10px;">
   <img src="circle-linkedin-512.jpeg" alt="linkedin" width="30">
 </a>
-
-<a href="mailto:lihi.erez@weizmann.ac.il">
+<a href="mailto:lihi.erez@weizmann.ac.il" style="display: inline-block; margin-right: 10px;">
   <img src="email-icon--clipart-best-22.png" alt="Email Icon" width="30">
 </a>
-
-<a href="https://github.com/Lihierez">
+<a href="https://github.com/Lihierez" style="display: inline-block;">
   <img src="github icon.png" alt="github" width="30">
 </a>
